@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConsoleApplication1.vcxproj, first.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  second.cpp
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab2\ConsoleApplication1\second.cpp(184,31): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab2\ConsoleApplication1\second.cpp(185,31): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab2\ConsoleApplication1\second.cpp(186,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab2\ConsoleApplication1\second.cpp(186,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab2\ConsoleApplication1\second.cpp(187,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab2\ConsoleApplication1\second.cpp(187,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab2\ConsoleApplication1\second.cpp(188,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab2\ConsoleApplication1\second.cpp(188,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab2\ConsoleApplication1\second.cpp(257,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab2\x64\Debug\second.exe

@@ -1,0 +1,26 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConsoleApplication1.vcxproj, first.vcxproj, second.vcxproj, third.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  four.cpp
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab4\ConsoleApplication1\four.cpp(144,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab4\ConsoleApplication1\four.cpp(207,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab4\ConsoleApplication1\four.cpp(558,26): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab4\ConsoleApplication1\four.cpp(559,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab4\ConsoleApplication1\four.cpp(575,48): warning C4267: '=': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab4\ConsoleApplication1\four.cpp(592,19): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab4\ConsoleApplication1\four.cpp(593,19): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab4\ConsoleApplication1\four.cpp(594,20): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab4\ConsoleApplication1\four.cpp(595,20): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab4\ConsoleApplication1\four.cpp(603,19): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab4\ConsoleApplication1\four.cpp(604,19): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab4\ConsoleApplication1\four.cpp(605,20): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab4\ConsoleApplication1\four.cpp(606,20): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab4\ConsoleApplication1\four.cpp(619,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab4\ConsoleApplication1\four.cpp(627,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab4\ConsoleApplication1\four.cpp(636,24): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab4\ConsoleApplication1\four.cpp(795,116): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab4\ConsoleApplication1\four.cpp(803,20): warning C4244: 'initializing': conversion from '_Rep' to 'float', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab4\ConsoleApplication1\four.cpp(803,20): warning C4244:         with
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab4\ConsoleApplication1\four.cpp(803,20): warning C4244:         [
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab4\ConsoleApplication1\four.cpp(803,20): warning C4244:             _Rep=__int64
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab4\ConsoleApplication1\four.cpp(803,20): warning C4244:         ]
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  ConsoleApplication1.vcxproj -> C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab4\x64\Debug\four.exe

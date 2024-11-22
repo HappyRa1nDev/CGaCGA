@@ -1,0 +1,16 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConsoleApplication1.vcxproj, first.vcxproj, second.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  third.cpp
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab3\ConsoleApplication1\third.cpp(65,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab3\ConsoleApplication1\third.cpp(67,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab3\ConsoleApplication1\third.cpp(218,34): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab3\ConsoleApplication1\third.cpp(235,31): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab3\ConsoleApplication1\third.cpp(236,31): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab3\ConsoleApplication1\third.cpp(237,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab3\ConsoleApplication1\third.cpp(237,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab3\ConsoleApplication1\third.cpp(238,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab3\ConsoleApplication1\third.cpp(238,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab3\ConsoleApplication1\third.cpp(239,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab3\ConsoleApplication1\third.cpp(239,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab3\ConsoleApplication1\third.cpp(343,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab3\ConsoleApplication1\third.cpp(370,17): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Study\ПГНИУ2\3 курс\ВГиАКГ\lab3\x64\Debug\third.exe
